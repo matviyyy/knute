@@ -1,1 +1,1 @@
-// gyfhghfg
+print('Hello')
